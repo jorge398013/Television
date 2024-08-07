@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/jorge398013/Television/main/guide.xml"
 #EXTINF:-1 tvg-id="Aztecauno.mx" tvg-name="Azteca Uno" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1111030-8c.png" group-title="Local",Azteca Uno
 http://offshore.lat:8080/play/3ix_FCY2ElyGjv2rILtncl5yQx5sGS77si-LvKH6UYo/.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/486912-8c.png" group-title="Local",Las Estrellas
