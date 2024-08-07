@@ -1,0 +1,27 @@
+#EXTM3U url-tvg="http://m3u4u.com/epg/782dyqz1j5a15zr8n4zp"
+#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="Cinemax" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425300-8c.png" group-title="Local",Cinemax
+http://offshore.lat:8080/play/3ix_FCY2ElyGjv2rILtncmZEpPiaGR0ZxN1NAG54Y1fUkOuVkCTP5uQajMxfKaB4/ts
+#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416645-8c.png" group-title="Local",Cinemax
+http://offshore.lat:8080/play/3ix_FCY2ElyGjv2rILtncvkd6jQTkKRdof4wCWWXv20/ts
+#EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417658-8c.png" group-title="Local",HBO
+http://offshore.lat:8080/play/3ix_FCY2ElyGjv2rILtncrcQ4zx4jIP0HPRgv3mbeHZtFssk0734VYe4xL2CzRJO/.m3u8
+#EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO 2" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417660-8c.png" group-title="Local",HBO 2
+http://offshore.lat:8080/play/3ix_FCY2ElyGjv2rILtncmZEpPiaGR0ZxN1NAG54Y1ecG0O5B-0DZlaGvs6NkTt3/.m3u8
+#EXTINF:-1 tvg-id="HBOSignature.mx" tvg-name="HBO Signature" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417662-8c.png" group-title="Local",HBO Signature
+http://offshore.lat:8080/play/3ix_FCY2ElyGjv2rILtnct-KK-_mPwqVvOn-kVD3TNhrN6s8HeaHDvL8hEDRNcnx/ts
+#EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO Family" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/603295-8c.png" group-title="Local",HBO Family
+http://offshore.lat:8080/play/3ix_FCY2ElyGjv2rILtnclIulqObO20T_SDL_kE17cPgrHHNwWVJ8TIyXjQOdWpu/ts
+#EXTINF:-1 tvg-id="HBOPlus.mx" tvg-name="HBO Plus" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425273-8c.png" group-title="Local",HBO Plus
+http://offshore.lat:8080/play/3ix_FCY2ElyGjv2rILtnclIulqObO20T_SDL_kE17cPu9xNLXk5i5vffveGFhYNO/ts
+#EXTINF:-1 tvg-id="HBOPOP.mx" tvg-name="HBO Pop" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425955-8c.png" group-title="Local",HBO Pop
+http://offshore.lat:8080/play/3ix_FCY2ElyGjv2rILtncuTKvo-S8oO89obOW8E-vBURnpL9cQTmzaYBvawNcZGE/ts
+#EXTINF:-1 tvg-id="HBOMundi.mx" tvg-name="HBO Mumdi" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425953-8c.png" group-title="Local",HBO Mumdi
+http://offshore.lat:8080/play/3ix_FCY2ElyGjv2rILtncm_BrUbNk3qaAZcePAVgS2LLQHBXYpveDtgvglVjYLUj/ts
+#EXTINF:-1 tvg-id="HBOXtreme.mx" tvg-name="HBO Xtreme" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425957-8c.png" group-title="Local",HBO Xtreme
+http://offshore.lat:8080/play/3ix_FCY2ElyGjv2rILtncoKduwpPtZAhc7TaHc2x-4AfV5EN1nzJv4xZwoR_m421/ts
+#EXTINF:-1 tvg-id="Aztecauno.mx" tvg-name="Azteca Uno" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1111030-8c.png" group-title="Local",Azteca Uno
+http://offshore.lat:8080/play/3ix_FCY2ElyGjv2rILtncl5yQx5sGS77si-LvKH6UYo/.m3u8
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/486912-8c.png" group-title="Local",Las Estrellas
+http://offshore.lat:8080/play/3ix_FCY2ElyGjv2rILtncjCP156S0ftuZlDCqcbA6zU/ts
+#EXTINF:-1 tvg-id="CanalLocal.mx" tvg-name="Malcolm in the Middle" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/8/89/Malcolm_in_the_Middle_Logo_1.png" group-title="Local",Malcolm in the Middle
+http://zuiowy.net:8080/live/Carisha5362/8k5A9X8UYWHR/91936.m3u8
